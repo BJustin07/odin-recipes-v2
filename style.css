@@ -1,0 +1,32 @@
+div{
+    /* padding: 12px; */
+    text-align:center;
+    margin: 0px auto;
+    width: 800px;
+}
+
+.headerTitle{
+    text-align: center;
+    background-color: lightblue;
+}
+
+ul{
+    list-style-position:inside;
+    text-align:center;
+    background-color: pink;
+}
+
+li{
+    padding:2px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+h2{
+    text-align: center;
+    background-color: lightblue;
+}
+
+div h1, div h2, div ul{
+    padding: 12px;
+}
